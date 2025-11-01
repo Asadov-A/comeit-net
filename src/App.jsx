@@ -141,7 +141,7 @@ function App() {
               <h3>{userName}</h3>
               <p>{email}</p>
               <p>
-                Member since: <span>{date}</span>
+                Date of birth: <span>{date}</span>
               </p>
             </div>
           </div>
