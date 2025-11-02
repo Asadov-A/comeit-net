@@ -41,6 +41,8 @@ function App() {
       setPassword("");
       setDate("");
       setEmail("");
+      setPasswordVisible(false);
+      setTermsAccepted(false);
       setProfileMenuVisible(false);
       document.querySelector(".my-account-menu").style.display = "none";
       alert("You have been logged out.");
